@@ -1,3 +1,3 @@
 # website
 
-https://antonyborji.github.io/website/
+https://github.com/AntonyBorji/website.git
